@@ -1,0 +1,22 @@
+.App {
+    background: #77a191; 
+    
+ }
+ 
+ .nav-bar {
+    color: rgb(5, 16, 121);
+    font-size: 30px;
+ }
+
+ .nav-link {
+    color: rgb(5, 16, 121);
+    font-size: 20px;
+ }
+ .CardBS {
+     margin-top: 40px;
+     text-align: center; 
+     padding-top: 30px;
+     grid-gap: 3rem;
+     justify-content: space-between;                                 
+ }
+ 
